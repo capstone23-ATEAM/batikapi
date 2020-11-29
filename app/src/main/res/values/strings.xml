@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">batikapi</string>
+    <string name="Aplikasi_Daftar_Batik">Aplikasi Daftar Batik</string>
+    <string name="Yuk_lihat_informasi_batik">Yuk lihat informasi batik</string>
+    <string name="alarm_on_toast">Notification On!</string>
+    <string name="alarm_off_toast">Notification Off!</string>
+    <string name="alarm_off">Alarm off</string>
+    <string name="alarm_on">Alarm on</string>
+    <string name="nama_batik">Nama Batik :</string>
+    <string name="daerah_batik">"Daerah Batik : "</string>
+    <string name="makna_batik">"Makna Batik : "</string>
+    <string name="harga_terendah_batik">"Harga Terendah Batik : "</string>
+    <string name="harga_tertinggi_batik">"Harga Tertinggi Batik : "</string>
+    <string name="link">"Link : "</string>
+</resources>
